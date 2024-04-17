@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+    <title>Noticias</title>
+    <link>https://www.eltiempo.es/canarias</link>
+    <description>Canal de novedades</description>
+    <category>Novedades</category>
+    <category>Tiempo</category>
+
+
+    <item>
+        <title>Maldita.es, periodismo para que no te la cuelen.</title>
+        <link>https://maldita.es/malditobulo/20240415/bulos-desinformaciones-ataque-iran-israel-14-abril/</link>
+        <description>Desmiente bulos y desinformacion de las noticias de actualidad.</description>
+    </item>
+    <item>
+        <title>CSS Layout - The z-index Property</title>
+        <link>https://www.w3schools.com/css/css_z-index.asp</link>
+        <description>Tutorial para usar el z-index en CSS</description>
+    </item>
+    <item>
+        <title>CSS Text</title>
+        <link>https://www.w3schools.com/css/css_text.asp</link>
+        <description>Tutorial para los textos en CSS</description>
+    </item>
+    <item>
+        <title>HTML Images</title>
+        <link>https://www.w3schools.com/html/html_images.asp</link>
+        <description>Tutorial para aprender a colocar imagenes en HTML</description>
+    </item>
+    <item>
+        <title>JavaScript Arrays</title>
+        <link>https://www.w3schools.com/js/js_arrays.asp</link>
+        <description>Aprende sobre los arrays en JavaScript</description>
+    </item>
+    
+    
+</channel>
+</rss>
